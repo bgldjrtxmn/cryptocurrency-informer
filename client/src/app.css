@@ -1,0 +1,18 @@
+.main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    padding: 0 20%;
+}
+
+.filters {
+    display: grid;
+    grid-template-columns: 100px 100px;
+    grid-column-gap: 20px;
+    padding: 20px;
+}
+
+.table {
+    width: 100%;
+}
